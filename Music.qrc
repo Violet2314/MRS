@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>Music/1.mp3</file>
+        <file>Music/Lanchong - 使一颗心免于哀伤哼唱加长[流萤][知更鸟].mp3</file>
+        <file>Music/初星学園,美波,月村手毬 - Luna say maybe.mp3</file>
+        <file>Music/李红宝 - 寂寞烟火.flac</file>
+        <file>Music/柠安 - 过饱和天空.mp3</file>
+        <file>Music/phonk.me,KIIXSHI - GHOST!.mp3</file>
+        <file>Music/未知歌手 - - DEAD ON ARRIVAL.mp3</file>
+        <file>Music/未知歌手 - [Phonk] Killers From The Northside (Sped Up).mp3</file>
+        <file>Music/未知歌手 - [Phonk] KILLKA (Explicit).mp3</file>
+        <file>Music/未知歌手 - [Phonk] RAVE LOVE.mp3</file>
+        <file>Music/未知歌手 - 【Phonk】 POOR - 1.[Phonk] POOR(Av655166788,P1).mp3</file>
+        <file>Music/未知歌手 - 【Phonk】 SHADOW - 1.[Phonk] SHADOW(Av569792933,P1).mp3</file>
+        <file>Music/未知歌手 - DEMONS IN MY SOUL.mp3</file>
+        <file>Music/未知歌手 - 【Phonk】 SO TIRED (Explicit) - 1.[Phonk] SO TIRED (Explicit)(Av403086493,P1).mp3</file>
+        <file>Music/未知歌手 - 【PHONK】GigaChad Theme ( Phonk House Version )音乐可视化 </file>
+        <file>Music/未知歌手 - 【少女前线_PHONK】“我失去了你的一切 我的灵魂只剩下空虚”</file>
+        <file>Music/未知歌手 - 【忤逆电台_Phonk】“幸运的是 我不需要被原谅”  Death Lotto（死亡乐透）</file>
+        <file>Music/未知歌手 - 【忤逆电台_Phonk】笨蛋...才没有讨厌你呢！ I Hate You I Love You</file>
+        <file>Music/未知歌手 - 维也纳金色大厅演奏《One Last Kiss》.mp3</file>
+    </qresource>
+</RCC>

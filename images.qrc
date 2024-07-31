@@ -1,0 +1,55 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/about.png</file>
+        <file>images/background.png</file>
+        <file>images/clear.png</file>
+        <file>images/cloud.png</file>
+        <file>images/cloud-white.png</file>
+        <file>images/exit-small-window.png</file>
+        <file>images/favorite.png</file>
+        <file>images/favorite-big.png</file>
+        <file>images/favorite-big-white.png</file>
+        <file>images/full-screen.png</file>
+        <file>images/grid.png</file>
+        <file>images/history.png</file>
+        <file>images/history-white.png</file>
+        <file>images/loading.png</file>
+        <file>images/local.png</file>
+        <file>images/local-white.png</file>
+        <file>images/minimize-screen.png</file>
+        <file>images/music.ico</file>
+        <file>images/music.png</file>
+        <file>images/network-error.png</file>
+        <file>images/next.png</file>
+        <file>images/pause.png</file>
+        <file>images/play-list.png</file>
+        <file>images/play-list-white.png</file>
+        <file>images/power.png</file>
+        <file>images/previous.png</file>
+        <file>images/random.png</file>
+        <file>images/recommend.png</file>
+        <file>images/recommend-white.png</file>
+        <file>images/repeat.png</file>
+        <file>images/search.png</file>
+        <file>images/single-repeat.png</file>
+        <file>images/small-screen.png</file>
+        <file>images/small-screen-white.png</file>
+        <file>images/small-window.png</file>
+        <file>images/stop.png</file>
+        <file>images/video.png</file>
+        <file>images/video-white.png</file>
+        <file>images/PixPin_2024-05-22_22-36-04.png</file>
+        <file>images/ccb88b57229a2ede4a70d13159d3bdb8277724013.jpg</file>
+        <file>images/微信图片_20230912092444.jpg</file>
+        <file>images/请选择你的伴侣 (1).jpg</file>
+        <file>images/45d87197fe88fd5b2c4340428500fa3f49533273.jpg</file>
+        <file>images/abf608643e44b9eb22da53bd1273f45b35040323.jpg</file>
+        <file>images/PixPin_2024-05-19_23-32-21.png</file>
+        <file>images/PixPin_2024-05-19_23-33-09.png</file>
+        <file>images/PixPin_2024-05-19_23-37-22.png</file>
+        <file>images/PixPin_2024-05-19_23-45-02.png</file>
+        <file>images/6c2141db738008d6840206bc6e66d59135040323(1).png</file>
+        <file>images/f2e2955982380a82ea484a619c9060aa35040323.jpg</file>
+        <file>images/PixPin_2024-07-26_19-38-57.png</file>
+    </qresource>
+</RCC>

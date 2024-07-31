@@ -1,0 +1,7 @@
+#ifndef DIRECTION_H
+#define DIRECTION_H
+
+#define PADDING 2
+enum Direction { UP=0, DOWN=1, LEFT, RIGHT, LEFTTOP, LEFTBOTTOM, RIGHTBOTTOM, RIGHTTOP, NONE };
+
+#endif // DIRECTION_H
